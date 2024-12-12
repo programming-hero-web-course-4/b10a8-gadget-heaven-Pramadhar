@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Laptop Pro",
+    "img": "https://i.ibb.co.com/FJGSP3M/images-3.jpg",
+    "category": "Laptop",
+    "price": 1099.99,
+    "description": "High-performance laptop for gaming and work, packed with powerful specs.",
+    "specification": "Intel i7, 16GB RAM, 512GB SSD, GTX 1650.",
+    "availability": "Out of Stock",
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "title": "Laptop 15-inch",
+    "img": "https://i.ibb.co/F4wD4Ds/HP-14-ep0204-TU-Laptop-jpg.webp",
+    "category": "Laptop",
+    "price": 799.99,
+    "description": "A reliable laptop for everyday tasks with a larger screen.",
+    "specification": "Intel i5, 8GB RAM, 256GB SSD.",
+    "availability": "In Stock",
+    "rating": 4.3
+  },
+  {
+    "id": 3,
+    "title": "Smartphone X100",
+    "img": "https://i.ibb.co.com/wK53sV7/bd-galaxy-s24-fe-s721-sm-s721blbcbng-thumb-544232090.jpg",
+    "category": "Phones",
+    "price": 799.99,
+    "description": "Sleek phone with a great camera and fast charging capabilities.",
+    "specification": "Snapdragon 888, 128GB Storage, 6GB RAM, 48MP camera.",
+    "availability": "In Stock",
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "title": "Smartphone Z20",
+    "img": "https://i.ibb.co.com/wK53sV7/bd-galaxy-s24-fe-s721-sm-s721blbcbng-thumb-544232090.jpg",
+    "category": "Phones",
+    "price": 599.99,
+    "description": "Affordable yet powerful smartphone with all the essential features.",
+    "specification": "Snapdragon 750G, 64GB Storage, 4GB RAM, 12MP camera.",
+    "availability": "In Stock",
+    "rating": 4.1
+  },
+  {
+    "id": 5,
+    "title": "Wireless Headphones",
+    "img": "https://i.ibb.co.com/Np12hs6/im3-jpg-500x500.webp",
+    "category": "Accessories",
+    "price": 199.99,
+    "description": "High-quality wireless headphones with active noise cancellation.",
+    "specification": "Bluetooth 5.0, 30-hour battery life, Adjustable headband.",
+    "availability": "In Stock",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "title": "Smart Watch X1",
+    "img": "https://i.ibb.co.com/q7G5S2Y/images-2.jpg",
+    "category": "Smart Watches",
+    "price": 229.99,
+    "description": "Track your fitness and health with the latest smartwatch.",
+    "specification": "Heart rate monitor, GPS, 5-day battery.",
+    "availability": "In Stock",
+    "rating": 4.5
+  },
+  {
+    "id": 7,
+    "title": "Smart Watch Pro",
+    "img": "https://i.ibb.co.com/q7G5S2Y/images-2.jpg",
+    "category": "Smart Watches",
+    "price": 249.99,
+    "description": "Advanced smartwatch with added health tracking features.",
+    "specification": "Heart rate monitor, sleep tracking, 6-day battery.",
+    "availability": "In Stock",
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "title": "MacBook Air 2023",
+    "img": "https://i.ibb.co.com/tKQ8Xm5/y4f-M7-C73hxcf-Ys-E8-RGd54-K-1200-80.jpg",
+    "category": "MacBook",
+    "price": 1299.99,
+    "description": "The latest MacBook Air with Apple's M2 chip for top performance and battery life.",
+    "specification": "M2 Chip, 8GB RAM, 256GB SSD, 13-inch Retina Display.",
+    "availability": "In Stock",
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "title": "MacBook Pro 2023",
+    "img": "https://i.ibb.co.com/tKQ8Xm5/y4f-M7-C73hxcf-Ys-E8-RGd54-K-1200-80.jpg",
+    "category": "MacBook",
+    "price": 2299.99,
+    "description": "Powerful MacBook Pro with the M1 Pro chip, ideal for professionals.",
+    "specification": "M1 Pro Chip, 16GB RAM, 512GB SSD, 16-inch Retina Display.",
+    "availability": "In Stock",
+    "rating": 4.9
+  },
+  {
+    "id": 10,
+    "title": "iPhone 14 Pro Max",
+    "img": "https://i.ibb.co.com/28Ldt7w/images-1.jpg",
+    "category": "iPhone",
+    "price": 1099.9,
+    "description": "The latest iPhone with an exceptional camera and performance upgrades.",
+    "specification": "A16 Bionic, 6GB RAM, 256GB Storage, 48MP camera.",
+    "availability": "In Stock",
+    "rating": 4.9
+  },
+  {
+    "id": 11,
+    "title": "iPhone 13 Mini",
+    "img": "https://i.ibb.co.com/28Ldt7w/images-1.jpg",
+    "category": "iPhone",
+    "price": 699.99,
+    "description": "Compact, powerful, and affordable, perfect for those who prefer a smaller phone.",
+    "specification": "A15 Bionic, 4GB RAM, 128GB Storage, 12MP camera.",
+    "availability": "In Stock",
+    "rating": 4.4
+  },
+  {
+    "id": 12,
+    "title": "USB-C Adapter",
+    "img": "https://i.ibb.co.com/Np12hs6/im3-jpg-500x500.webp",
+    "category": "Accessories",
+    "price": 29.99,
+    "description": "Compact USB-C adapter for charging and data transfer.",
+    "specification": "USB-C to USB-A, 10Gbps speed, lightweight.",
+    "availability": "In Stock",
+    "rating": 4.0
+  }
+]
